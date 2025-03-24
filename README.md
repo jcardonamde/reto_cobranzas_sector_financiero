@@ -2,15 +2,25 @@
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vRM16Ii_pPJMCRHJ0okZorpMQJ3WD2ltRiXDTcudQ63DEX23XlXsCR3rn5MtEhe_B9zoWVVGiql4ASe/pub?w=927&h=520)
 
-The financial sector use case shows a collection process for clients who are currently in default (non-payment) of their financial obligation (credit). In each row, the management developed by the lawyer and the result of the management are recorded. It is important to analyze the main causes of default and define portfolio recovery strategies based on the client profiles identified.
+<br>
 
-💻📚 Libraries used: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+## Description
+
+This financial sector use case presents a collection process for clients who have defaulted on their financial obligations (credit payments). Each record documents the actions taken by the assigned lawyer and their corresponding outcomes. The goal is to analyze the primary causes of default and develop effective portfolio recovery strategies based on identified client profiles.
+
+<br>
+
+**Technologies Used** 💻
+
+📚 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 
 :microscope::dart: Applied models: KMeans. 
 
 :memo: Presentation summary [here](https://wepik.com/share/9a8657b6-9f96-4adb-8867-284e9325bb2f#rs=link)
 
-👀:bar_chart: Previews:
+<br>
+
+## 👀 Previews:
 
 ![](https://docs.google.com/drawings/d/e/2PACX-1vT1iTWGbCerYPhonmwQcGQiEt5TbkK8FBKQ7dRgtAlLqyJyNFxVS-kDtcbqRgJSn0dhGeYsL_X4i1YF/pub?w=929&h=628)
 
